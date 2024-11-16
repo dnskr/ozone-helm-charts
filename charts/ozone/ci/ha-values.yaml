@@ -1,0 +1,10 @@
+# Highly Available configuration
+
+om:
+  replicas: 2
+
+s3g:
+  replicas: 2
+
+scm:
+  replicas: 2
