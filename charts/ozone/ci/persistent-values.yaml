@@ -1,0 +1,17 @@
+# Persistence enabled configuration
+
+datanode:
+  persistence:
+    enabled: true
+
+om:
+  persistence:
+    enabled: true
+
+s3g:
+  persistence:
+    enabled: true
+
+scm:
+  persistence:
+    enabled: true
